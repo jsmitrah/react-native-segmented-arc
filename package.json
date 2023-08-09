@@ -1,5 +1,5 @@
 {
-  "name": "react-native-arc-progress-bar",
+  "name": "react-native-segment-progress-bar",
   "version": "1.0.0",
   "description": "Progress bar for react native",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "author": "mitrahsoft",
   "license": "MIT",
-    "peerDependencies": {
+  "peerDependencies": {
     "react": "18.2.0",
     "react-native": "0.72.3",
     "react-native-svg": "^13.10.0"
@@ -29,5 +29,8 @@
     "type": "git",
     "url": "https://github.com/jsmitrah/react-native-segmented-arc"
   },
-  "homepage":"https://github.com/jsmitrah/react-native-segmented-arc#readme"
+  "homepage": "https://github.com/jsmitrah/react-native-segmented-arc#readme",
+  "bugs": {
+    "url": "https://github.com/jsmitrah/react-native-segmented-arc/issues"
+  }
 }

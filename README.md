@@ -1,6 +1,6 @@
 # React Native Arc ProgressBar
 
-Arc ProgressBar for React Native, works on both **iOS** and **Android**. 
+Segment ProgressBar for React Native, works on both **iOS** and **Android**. 
 Check out our documentation below to learn how to get started.
 
 ## Demo and Docs
@@ -20,14 +20,14 @@ Check out our documentation below to learn how to get started.
 
 1. Install `react-native-svg` library for Dependency
 
-2. Install `react-native-arc-progress-bar`:
+2. Install `react-native-segment-progress-bar`:
 
 ```bash
-yarn add react-native-arc-progress-bar
+yarn add react-native-segment-progress-bar
 ```
 
 ```bash
-npm install react-native-arc-progress-bar
+npm install react-native-segment-progress-bar
 ```
 
 ## 🎉 Usage
@@ -37,7 +37,7 @@ Here is a basic example of how to use this component. It covers all the main fea
 ```js
 import React, { useState } from 'react';
 import { View, Text, Pressable } from 'react-native';
-import { ArcProgressBar } from 'react-native-arc-progress-bar';
+import { ArcProgressBar } from 'react-native-segment-progress-bar';
 
 const App = () => {
   const [showArcRanges, setShowArcRanges] = useState(false);
