@@ -8,7 +8,7 @@ Check out our documentation below to learn how to get started.
 
 ## Example Image
 
-![example](https://res.cloudinary.com/dfkgcnzjn/image/upload/v1691482811/For%20Testing/arc-progressbar_l8365u.gif)
+![example](./arc-progressbar.gif)
 
 ## Contents
 
